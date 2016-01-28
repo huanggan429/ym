@@ -1,4 +1,5 @@
 version1
+testfor github
 version2
 version3
 my stuoid 
