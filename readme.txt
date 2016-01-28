@@ -1,6 +1,8 @@
 Git is a version control system
-this is master branch
+=======
+creating a new branch is simple and quick
+>>>>>>> feature1
 it is branch time
 hehe
 this is a version new 
-Git is free software
+it is free software
